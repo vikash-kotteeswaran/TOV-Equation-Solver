@@ -9,5 +9,5 @@ Solving Ordinary Differential Equation Numerically using 4th Order Runge-Kutta M
 <br />
 <br /> This can be broken down into First order differential equations 
 <br />
-<br />![](https://latex.codecogs.com/gif.latex?\frac{dz}{dx}&plus;z=x)
-<br />![](https://latex.codecogs.com/gif.latex?z=\frac{dy}{dx})
+<br />![](https://latex.codecogs.com/gif.latex?\frac{dz}{dx}=x&minus;z)
+<br />![](https://latex.codecogs.com/gif.latex?\frac{dy}{dx}=z)
