@@ -14,4 +14,5 @@ Solving Ordinary Differential Equation Numerically using 4th Order Runge-Kutta M
 <br />
 <br />The code also follows the same order of inputs
 <br />
-<br />
+<br />Output of the following with ![](https://latex.codecogs.com/gif.latex?y=0) and ![](https://latex.codecogs.com/gif.latex?y'=0)
+<br />at ![](https://latex.codecogs.com/gif.latex?x=x1=3.141), ![](https://latex.codecogs.com/gif.latex?x=x1=3.141&space;,\&space;y=x2&space;=&space;2.755799682673804&space,\&space;z=x3&space;=&space;2.1915219259916685)
