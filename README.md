@@ -12,7 +12,4 @@ Solving Ordinary Differential Equation Numerically using 4th Order Runge-Kutta M
 <br />![](https://latex.codecogs.com/gif.latex?\frac{dy}{dx}=z)
 <br />![](https://latex.codecogs.com/gif.latex?\frac{dz}{dx}=x-z)
 <br />
-<br />The code also follows the same order of inputs
-<br />
-<br />Output of the following with ![](https://latex.codecogs.com/gif.latex?y=0) and ![](https://latex.codecogs.com/gif.latex?y'=0) from RK4
-<br />at ![](https://latex.codecogs.com/gif.latex?x=x1=3.141),   ![](https://latex.codecogs.com/gif.latex?y=)![](https://latex.codecogs.com/gif.latex?x2=2.755799682673804),   ![](https://latex.codecogs.com/gif.latex?z=2.1915219259916685)
+<br />Numerical solution is accurate with analytical solution to three decimal places with ![](https://latex.codecogs.com/gif.latex?x=0.0001) 
