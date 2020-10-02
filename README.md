@@ -1,7 +1,7 @@
 # Ordinary-Differential-Equation-Numerical-Solver
 Solving Ordinary Differential Equation Numerically using 4th Order Runge-Kutta Method and can also be used to perform Integrations Numerically
 ### Recommendations:
-* The preference would be to take independent variable ![](https://latex.codecogs.com/gif.latex?x\&space;or\&space;t\&space;as\&space;x1), dependent variable ![](https://latex.codecogs.com/gif.latex?y\&space;as\&space;x2) and so on.
+* The preference would be to take independent variable ![](https://latex.codecogs.com/gif.latex?x) or ![](https://latex.codecogs.com/gif.latex?t) as ![](https://latex.codecogs.com/gif.latex?x1), dependent variable ![](https://latex.codecogs.com/gif.latex?y) as ![](https://latex.codecogs.com/gif.latex?x2) and so on.
 * Solving higher order differential equations (Order>1) requires decomposition of higher order differential equations into several first order differential equations.
 * Provide Initial conditions to begin the calculation.
 ### Example:
